@@ -1,0 +1,26 @@
+﻿Codigo,Produto,Grupo,Estoque_Atual,Estoque_Minimo,Estoque_Maximo,Tempo_Reposicao_Dias
+0001,Dipirona 500mg/mL,Medicamento,122,122,592,13
+0002,"Soro Fisiologico 0,9% 500mL",Solucoes,91,50,864,13
+0003,Soro Glicosado 5% 500mL,Solucoes,478,117,689,6
+0004,Equipo Macrogotas,Material Hospitalar,891,181,511,4
+0005,Seringa 10mL,Material Hospitalar,363,187,772,3
+0006,Seringa 20mL,Material Hospitalar,479,87,308,14
+0007,Agulha 25x7,Material Hospitalar,876,78,752,12
+0008,Luva Procedimento M,Material Hospitalar,495,44,433,17
+0009,Omeprazol 40mg,Medicamento,977,80,846,5
+0010,Ceftriaxona 1g,Antibiotico,504,80,926,11
+0011,Ampicilina 1g,Antibiotico,186,47,634,16
+0012,Metoclopramida 10mg,Medicamento,261,38,583,4
+0013,Ondansetrona 4mg,Medicamento,359,121,687,9
+0014,Furosemida 20mg,Medicamento,447,37,271,16
+0015,Hidrocortisona 100mg,Medicamento,100,193,954,10
+0016,Adrenalina 1mg/mL,Medicamento,407,31,620,12
+0017,"Atropina 0,25mg/mL",Medicamento,791,83,759,14
+0018,Cloreto de Sodio 20%,Solucoes,181,43,513,10
+0019,Glicose 50%,Solucoes,481,69,993,18
+0020,Cateter Venoso 20G,Material Hospitalar,768,111,363,15
+0021,Cateter Venoso 22G,Material Hospitalar,60,186,400,15
+0022,Mascara Cirurgica,Material Hospitalar,84,118,838,3
+0023,Compressa Gaze,Material Hospitalar,667,92,430,19
+0024,Esparadrapo,Material Hospitalar,411,192,810,3
+0025,Alcool 70%,Material Hospitalar,398,34,723,9
